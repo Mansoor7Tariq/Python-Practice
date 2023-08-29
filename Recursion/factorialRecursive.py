@@ -29,4 +29,5 @@ print('Factorial is -> ', factorial(5))
 print('Accumulative Sum is -> ', accumulativeSum(5))
 
 
-print(sys.getrecursionlimit())
+print('System Recursive Limit -> ', sys.getrecursionlimit())
+print('Python version -> ', sys.version)
